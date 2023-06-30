@@ -50,6 +50,21 @@ These are not ranked in order in tiers btw. Also I didn't spend too much time on
 - COMP4920 (Ethics)
 - MATH2901 (Higher Stats)
 
+## Courses I haven't taken but might want to do (ranked)
+
+- COMP4141 (Theory of Computation) T1
+- MATH5705 (Harmonic Analysis) T3
+- MATH3901 (Stochastic Processes) T1
+- MATH3161 / MATH3171 (Optimization) T1
+- COMP4161 (Advanced Verification) T3
+- MATH3371 (Numerical Linear Methods)
+
+- MATH5825 (Measure Theory)
+- COMP6741 (Intractable Algorithms)
+- COMP3131 (Compilers)
+- COMP4128 (Programming Challenges)
+- COMP6771 (C++ Programming)
+
 
 
 
