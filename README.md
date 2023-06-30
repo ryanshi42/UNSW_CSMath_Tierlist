@@ -57,13 +57,13 @@ These are not ranked in order in tiers btw. Also I didn't spend too much time on
 - MATH3901 (Stochastic Processes) T1
 - MATH3161 / MATH3171 (Optimization) T1
 - COMP4161 (Advanced Verification) T3
-- MATH3371 (Numerical Linear Methods)
+- MATH3371 (Numerical Linear Methods) T1
 
-- MATH5825 (Measure Theory)
-- COMP6741 (Intractable Algorithms)
-- COMP3131 (Compilers)
-- COMP4128 (Programming Challenges)
-- COMP6771 (C++ Programming)
+- MATH5825 (Measure Theory) T3
+- COMP6741 (Intractable Algorithms) T1
+- COMP3131 (Compilers) T1
+- COMP4128 (Programming Challenges) T3
+- COMP6771 (C++ Programming) T1
 
 
 
