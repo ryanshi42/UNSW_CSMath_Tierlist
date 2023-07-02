@@ -57,7 +57,8 @@ These are not ranked in order in tiers btw. Also I didn't spend too much time on
 - MATH3161 / MATH3171 (Optimization) T1
 - MATH5705 (Harmonic Analysis) T3
 - COMP4161 (Advanced Verification) T3
-- COMP9242 AOS T3
+- COMP9242 (AOS) T3
+- COMP9417 (ML) T1 / T2
 
 - MATH3371 (Numerical Linear Methods) T1
 - MATH5825 (Measure Theory) T3
