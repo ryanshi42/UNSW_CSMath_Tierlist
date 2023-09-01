@@ -10,6 +10,7 @@ These are not ranked in order in tiers btw. Also I didn't spend too much time on
 - MATH3611 (Higher Analysis)
 - MATH2701 (Geometry / Analysis)
 - MATH2601 (Linear Algebra)
+- MATH5605 (Functional Analysis)
 
 ## A Tier
 
@@ -18,11 +19,9 @@ These are not ranked in order in tiers btw. Also I didn't spend too much time on
 - COMP1511 (Intro to Programming)
 - COMP2521 (DSA)
 - MATH2221 (Diff Equations)
-- MATH5605 (Functional Analysis)
 - COMP6991 (Rust)
 - COMP3141 (Functional Programming)
 - COMP3821 (Extended Algorithms)
-- COMP2041 (Shell)
 
 ## B Tier
 
@@ -35,6 +34,7 @@ These are not ranked in order in tiers btw. Also I didn't spend too much time on
 - COMP3311 (Databases)
 - MATH2111 (Higher Several Variable Calc)
 - COMP3151 (Concurrency)
+- COMP2041 (Shell)
 
 ## C Tier
 
